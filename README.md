@@ -1,6 +1,6 @@
 # Mobile-message-ui
-Message UI 
+Message UI <br />
 
-Git clone repo
-Run it local server port 8080
-Hit http://localhost:8080
+Git clone repo <br />
+Run it local server port 8080<br />
+Hit http://localhost:8080<br />
