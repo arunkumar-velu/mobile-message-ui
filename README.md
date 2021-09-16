@@ -9,7 +9,7 @@ Git clone repo <br />
 Run it local server port 8080<br />
 
 ```bash
-php -S localhost:8000 -t public
+php -S localhost:8080 -t public
 ```
 
 Hit http://localhost:8080<br />
